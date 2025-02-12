@@ -40,6 +40,6 @@ Este projeto consiste em um **dashboard financeiro interativo**, desenvolvido no
  
 **Acesse o dashboard**:  
    - [🔗 Link para o dashboard no Looker Studio](https://lnkd.in/dWiM-xkB) 
-   - - [🔗 Link para planilhas no Google Sheets](https://lnkd.in/d5PzXaap) 
+   - [🔗 Link para planilhas no Google Sheets](https://lnkd.in/d5PzXaap) 
 
 
