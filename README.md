@@ -39,7 +39,7 @@ Este projeto consiste em um **dashboard financeiro interativo**, desenvolvido no
    - Adição de filtros dinâmicos para análise por período (mês, ano) e outras dimensões relevantes.  
  
 **Acesse o dashboard**:  
-   - [🔗 Link para o dashboard no Looker Studio](https://lnkd.in/dWiM-xkB) 
-   - [🔗 Link para planilhas no Google Sheets](https://lnkd.in/d5PzXaap) 
+   - [🔗 Link para o dashboard no Looker Studio](https://lookerstudio.google.com/reporting/4d1d104a-3319-4384-bde2-fa0918ea2f91) 
+   - [🔗 Link para planilhas no Google Sheets](https://docs.google.com/spreadsheets/d/1CNUAtmYDMfoc6d6A9Mv6HHC3py5I9jUPiDGYM-WAOzI/edit?gid=1134097014#gid=1134097014) 
 
 
